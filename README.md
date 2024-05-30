@@ -2,7 +2,12 @@
 
 
 ## How to use
-1. Clone this model repository
+1. Clone this repository
+```
+git clone https://github.com/AidaiZh/vocal_remover_app.git
+cd vocal_remover_app
+```
+2. Clone this model repository
 ```
 git clone https://github.com/tsurumeso/vocal-remover.git
 ```
@@ -29,7 +34,7 @@ Select the option to export cookies, and choose the format suitable for yt-dlp (
 Save the File:
 
 Save the exported cookies file as www.youtube.com_cookies.txt on your computer.
-2. To run the script, use the following command:
+3. To run the script, use the following command:
 ```
 python app_youtube.py
 ```
